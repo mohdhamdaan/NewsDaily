@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NeswDaily/static/css/main.abd64e84.css",
+    "main.js": "/NeswDaily/static/js/main.0928f8bd.js",
+    "static/js/787.4c026eef.chunk.js": "/NeswDaily/static/js/787.4c026eef.chunk.js",
+    "index.html": "/NeswDaily/index.html",
+    "main.abd64e84.css.map": "/NeswDaily/static/css/main.abd64e84.css.map",
+    "main.0928f8bd.js.map": "/NeswDaily/static/js/main.0928f8bd.js.map",
+    "787.4c026eef.chunk.js.map": "/NeswDaily/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.0928f8bd.js"
+  ]
+}
